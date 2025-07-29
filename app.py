@@ -22,16 +22,14 @@ no_show_rate = no_shows / course_openings if course_openings else 0
 st.title("FY24 Life Support Training Dashboard")
 
 #KPI Section
-col1, col2, col3 = st.columns(3)
+col1, col2, col3, col4, col5 = st.columns(3)
 col1.metric("Learners Attended", total_learners)
 col2.metric("Sessions Run", total_sessions)
 col3.metric("Attendance Rate", f"{attendance_rate:.1%}")
-
-col4, col5 = st.columns(2)
 col4.metric("Utilization Rate", f"{utilization_rate:.1%}")
 col5.metric("No Show Rate", f"{no_show_rate:.1%}")
 
-st.divider
+st.divider()
 
 #---Visualizations---
 st.subheader("Learners Attended per Course")
