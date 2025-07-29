@@ -52,5 +52,3 @@ with st.expander("🔍 Show Raw Data Table"):
   st.dataframe(df)
 
 st.caption("FY24 Clinical Simulation Summary - Created by Ray Hutchinson")
-
-st.caption("FY24 Clinical Simulation Summary - Created by Ray Hutchinson")
