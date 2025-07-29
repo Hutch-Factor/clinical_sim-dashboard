@@ -1,0 +1,31 @@
+﻿course_name,course_type,course_number,course_status,course_discipline,number_courses_per_month,total_courses_scheduled,total_courses,total_number_sessions,course_openings,max_enrollment,learners_attended,additional_courses_added,total_no_shows
+CRT 101 -  BLS,CRT,101,,BLS,13,150,135,134,1080,1160,645,,403
+CRT 101 -  BLS (Private),CRT,101,Private,BLS,,,,3,,24,8,,
+CRT 104 -  HS,CRT,104,,HS,,,,2,,80,,,
+CRT 105 -  HS,CRT,105,,HS,,,,6,,148,14,,
+CRT 106 -  BLS,CRT,106,,BLS,50,600,722,671,5776,5560,3168,,736
+CRT 106 -  BLS (Private),CRT,106,Private,BLS,,,79,74,632,1116,644,,
+CRT 107 -  BLS,CRT,107,,BLS,,,,,,,1544,,
+CRT 109 -  HS,CRT,109,,HS,,,,1,,16,7,,
+CRT 111 -  STB,CRT,111,,STB,,,,1,,50,,,
+CRT 301 -  ACLS,CRT,301,,ACLS,8,94,98,90,784,728,503,,138
+CRT 301 -  ACLS (Private),CRT,301,Private,ACLS,,,11,8,88,62,52,,
+CRT 302 -  ACLS,CRT,302,,ACLS,5,60,94,95,752,784,547,,181
+CRT 302 -  ACLS (Private),CRT,302,Private,ACLS,,,,,,,,,
+CRT 304 -  PALS,CRT,304,,PALS,2,24,36,35,288,268,189,,46
+CRT 304 -  PALS (Private),CRT,304,Private,PALS,,,2,1,16,8,6,,
+CRT 305 -  PALS,CRT,305,,PALS,4,54,52,50,416,388,193,,38
+CRT 305 -  PALS (Private),CRT,305,Private,PALS,,,,2,,12,,,
+CRT 306 -  PALS,CRT,306,,PALS,3,38,47,42,376,336,133,,67
+CRT 306 -  PALS (Private),CRT,306,Private,PALS,,,5,5,40,40,45,,
+CRT 307 -  ACLS,CRT,307,,ACLS,14,162,248,222,1984,1778,1353,63,284
+CRT 307 -  ACLS (Private),CRT,307,Private,ACLS,,,27,27,216,216,130,,
+CRT 308 -  NRP,CRT,308,,NRP,5,60,35,56,152,256,99,,30
+CRT 308 -  NRP (Private),CRT,308,Private,NRP,,,30,10,120,84,130,,
+CRT 701 -  CB,CRT,701,,CB,,,,78,,1968,,,
+CRT 702 -  CB,CRT,702,,CB,,,,3,,90,,,
+CRT 711 -  CB,CRT,711,,CB,,,,16,,350,,,
+PD 102 -  BLS,PD,102,,BLS,,,,6,,56,25,,
+PD 103 -  ACLS,PD,103,,ACLS,,,,4,,40,8,,
+PD 104 -  PALS,PD,104,,PALS,,,,,,,,,
+PD 109 -  CB,PD,109,,CB,,,,13,,650,,,
